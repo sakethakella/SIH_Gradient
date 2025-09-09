@@ -3,3 +3,5 @@
 101138.tsv
 101139.csv
 101140.csv
+best_model_normalized.pth
+model_weights.pth
